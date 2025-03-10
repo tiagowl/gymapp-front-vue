@@ -7,7 +7,9 @@
   "compilerOptions": {
     "strict": false,
     "noImplicitAny": false,
+    "noUnusedLocals": false,
     "noUnusedParameters": false,
-    "noUnusedLocals": false
+    "skipLibCheck": true,
+    "noEmitOnError": false
   }
 }
