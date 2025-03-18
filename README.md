@@ -1,5 +1,52 @@
-# Vue 3 + TypeScript + Vite
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# Power Gym
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+Power gym é um sistema para auxiliar dono e professores de uma academia a gerenciar seus dados de forma centralizada e organizada.
+
+
+
+
+
+## Funcionalidades
+
+- Dashboard
+- Cadastrar, editar, excluir dados de alunos, professores e planos
+- Visualizar dados de alunos, professores e planos com filtros de acordo com a preferência
+- atribuir permissões para professores quanto a interação com o sistema
+
+
+
+
+
+## Stack utilizada
+
+**Front-end:** Vue 3, Ant-design vue
+
+**Back-end:** Node, adonis
+
+
+
+
+
+
+
+
+
+
+
+## Demonstração
+
+Você pode acessar o projeto através do link: https://gymapp-front-vue.vercel.app/
+
+
+
+
+
+
+
+
+
+
+
+
+
